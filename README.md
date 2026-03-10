@@ -35,8 +35,6 @@ iptables-firewall-lab
 
 ├── firewall-rules.sh
 
-├── network-diagram.png
-
 └── lab-notes.md
 ---
 # Configuração do Firewall
